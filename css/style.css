@@ -1,0 +1,84 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+h1{
+font-family: 'Lato', sans-serif;
+font-size: 37px;
+}
+h2{
+font-family: 'Lato', sans-serif;
+font-size: 34px;
+}
+h3{
+font-family: 'Lato', sans-serif;
+font-size: 31px;
+}
+h4{
+font-family: 'Lato', sans-serif;
+font-size: 28px;
+}
+h5{
+font-family: 'Lato', sans-serif;
+font-size: 25px;
+}
+h6{
+font-family: 'Lato', sans-serif;
+font-size: 22px;
+}
+p{
+font-family: 'Lato', sans-serif;
+font-size: 20px;
+font-weight: 500;
+}
+.nav.navbar-nav.navbar-left li a {
+    color: blue !important;
+}
+.colorTextoUno{
+  color: #E6E2AF;
+}
+.colorTextoDos{
+  color: #A7A37E;
+}
+.colorTextoTres{
+  color: #EFECCA;
+}
+.colorTextoCuatro{
+  color: #046380;
+}
+.colorTextoCinco{
+  color: #002F2F;
+}
+.colorBackgroundUno{
+  background-color: #E6E2AF;
+}
+.colorBackgroundDos{
+  background-color: #A7A37E;
+}
+.colorBackgroundTres{
+  background-color: #EFECCA;
+}
+.colorBackgroundCuatro{
+  background-color: #046380;
+}
+.colorBackgroundCinco{
+  background-color: #002F2F;
+}
+.colorBackgroundNo{
+  background-color: transparent;
+}
+.colorBorderUno{
+  border: 1px solid #E6E2AF;
+}
+.colorBorderDos{
+  border: 1px solid #A7A37E;
+}
+.colorBorderTres{
+  border: 1px solid #EFECCA;
+}
+.colorBorderCuatro{
+  border: 1px solid #046380;
+}
+.colorBorderCinco{
+  border: 1px solid #002F2F;
+}
